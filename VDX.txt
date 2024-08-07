@@ -1,1 +1,1 @@
-WEBHOOK
+https://discord.com/api/webhooks/1270889456597074011/lJ6gcWw_XA2ZPmDEu5njFDrZoZja3Nmg052TFiIXNsBvLpB8IHX4SoF4aKMP5m3sMjON
